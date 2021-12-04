@@ -13,12 +13,13 @@ A web app that explains the rules of the game can be found by running `app.py`. 
 Alternatively, video demonstrations and a complementary paper on the game are also included, and they can be viewed by clicking the links below.
 
 Game demo: https://youtu.be/kVhoSx0j3K4
-Project demo:
-Paper: 
 
+Project demo:
+
+Paper: https://github.com/Jarell-Cheong/the-pretzel-game/blob/master/static/pretzel.pdf
+
+To play the game, run `cd the-pretzel-game` followed by `python3 game.py` to view the list and moves in the command-line.
 
 # Technologies
 
-# Setup
-
-# References
+The code is written and compiled in VS Code. The only language used is Python 3, and the only external Python library used is Streamlit.
