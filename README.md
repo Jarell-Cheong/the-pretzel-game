@@ -14,7 +14,7 @@ Alternatively, video demonstrations and a complementary paper on the game are al
 
 Game demo: https://youtu.be/kVhoSx0j3K4
 
-Project demo:
+Project demo: https://youtu.be/XMxiEfqkTo4
 
 Paper: https://github.com/Jarell-Cheong/the-pretzel-game/blob/master/static/pretzel.pdf
 
